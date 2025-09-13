@@ -18,11 +18,13 @@ Repository structure:
 
 TAQAT_dashboard/
 ├─ Dashboard/
-   ├─ dashboard_pic.png            # Dashboard pic
-   └─ TAQAT.pbix                   # Power BI report
+|   ├─ dashboard_pic.png            # Dashboard pic
+|  └─ TAQAT.pbix                   # Power BI report
+|  
 ├─ Web Scraping/
-   ├─ Scraping_code.ipynb          # Web scraping & cleaning workflow
-   └─ taqat_all_talents.xlsx       # Scraped data
+|  ├─ Scraping_code.ipynb          # Web scraping & cleaning workflow
+|  └─ taqat_all_talents.xlsx       # Scraped data
+|  
 └─ README.md
 
 
@@ -54,7 +56,8 @@ Talent Finder — searchable by role, skills, experience, language, rate range
 4) Open the Power BI dashboard
   Open Dashboard/TAQAT_Dashboard.pbix in Power BI Desktop
   or use this link:
-  eyJrIjoiZDBjZDYxYjktNzI1NC00YjBlLWE0OGItNDViMDQ3Njk3ZGYxIiwidCI6ImE0ZTBiMmQwLWIzMDYtNGE4Ny05YTk0LTJhY2YxNTNmZWYxNiJ9
+
+  https://app.powerbi.com/view?r=eyJrIjoiZDBjZDYxYjktNzI1NC00YjBlLWE0OGItNDViMDQ3Njk3ZGYxIiwidCI6ImE0ZTBiMmQwLWIzMDYtNGE4Ny05YTk0LTJhY2YxNTNmZWYxNiJ9
 
 
 
